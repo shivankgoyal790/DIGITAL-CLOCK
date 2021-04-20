@@ -1,0 +1,50 @@
+.flex-container{
+    display: flex;
+    padding: 12px 0px;
+    padding-right: 12px;
+    border: 10px solid gray;
+    margin-top: 10%;
+    font-size: 100px;
+    width: 80%;
+    height: 200px;
+    margin-left: 10%;
+    background-color: black;
+    border-radius: 10px; 
+}
+
+h1{
+    color: red;
+    margin-top: 0;
+    background-color:  rgba(138, 55, 55, 0.3);
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h3{
+    font-size: 20px;
+    margin-top: 0;
+}
+.flex-box{
+
+    color: red;
+    flex:25%;
+    padding-top: 0px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgba(138, 55, 55, 0.3);
+    margin-left: 1%;
+    
+
+
+}
+
+
+
+
+
+body{
+    text-align: center;
+    background-color: black;
+    margin: 0;
+}
